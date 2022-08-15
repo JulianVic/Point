@@ -1,0 +1,23 @@
+{
+  "name": "point",
+  "version": "13.2.1",
+  "main": "point.js",
+  "scripts": {
+    "dev": "nodemon point.js"
+  },
+  "author": "SxRFaraon",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^13.9.0",
+    "ytdl": "^1.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "nodemon": "^2.0.19"
+  }
+}
